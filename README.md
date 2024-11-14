@@ -2,10 +2,15 @@
 Team Information
 
 -**[Devansh Patel]** - [Team Leader]
+
 -**[Vishesh Shahu]** - [Team member]
+
 -**[Akshay Gupta]** - [Team member]
+
 -**[Sumit Patil]** - [Team member]
+
 -**[Pradeep Sahu]** - [Team member]
+
 Mentor
 
 -**[Anirvinya Gururajan]** - [Mentor's Role/Title]
